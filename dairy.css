@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(249, 171, 24);
+}
+header{
+    height: 15%;
+    width: 100%;
+    background-color: burlywood;
+}
+.headtxt{
+    margin-left: 41%;
+    font-size: 80px;
+
+}
+h3{
+    margin-top: 26px;
+    margin-left: 33%;
+    font-style: oblique;
+}
+
+.mainDiv{
+    height:33% ;
+    width: 335;
+    background-color: rgb(248, 248, 251);
+    margin-left: 13%;
+    border-radius: 5px 60px 10px 60px;
+
+}
+.italictxt{
+   color: red;
+   position: relative;
+  font-size: 40px;
+  top: 60%;
+  text-shadow: 1px 2px 3px  black;
+  margin-left: 21%;
+  transition: cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.plus{
+    position: absolute;
+    font-size: 200px;
+    margin-left: -120px;
+    margin-top: 20px;
+    color: red;
+    opacity: 0.5;
+}
+
+
+
+
+
+
